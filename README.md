@@ -1,0 +1,1 @@
+Graphics Window that is bundled with LegoScript along with the main LS GUI - EE (Editor Environment). Its purpose later evolved from simply being a viewer into becoming a fully fledged Lego CAD editor. It has interoperability with the rest of the LS suite (e.g EE, and the scripting language itself) as well as LDCAD baked right in. 
